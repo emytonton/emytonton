@@ -1,8 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=600&color=F7B4F0&width=435&lines=Hello+World%2C++I'm+Emy!;be+very+welcome+%F0%9F%92%AB)](https://git.io/typing-svg)
 
-  ## Software engineering student, 4nd period 📚 
+ ## Software engineering student, 4nd period 📚 
+
+ <a href="https://discord.com/users/733443398903529534"><img src="https://lanyard.cnrad.dev/api/733443398903529534" align="right" width="350px" /></a> 
  
- ## Languages ​​and Technologies:
+<br />
+  <strong>Languages ​​and Technologies:<strong/>
  <div style="display: inline_block"><br>
   <img align="center" alt="Cris-Js" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Cris-Js" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
