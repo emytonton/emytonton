@@ -18,8 +18,8 @@
 
 <div align="center" style="display: flex; justify-content: center;">
   <a href="https://github.com/emytonton">
-    <img height="195px" src="https://github-readme-stats.vercel.app/api?username=emytonton&show_icons=true&theme=rose"/>
-    <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emytonton&layout=compact&theme=rose"/>
+    <img height="170px" src="https://github-readme-stats.vercel.app/api?username=emytonton&show_icons=true&theme=rose"/>
+    <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emytonton&layout=compact&theme=rose"/>
   </a>
 </div>
 
