@@ -13,3 +13,4 @@
 📊 GitHub Stats:\
 \
 ![emytonton GitHub stats](https://github-readme-stats.vercel.app/api?username=emytonton&show_icons=true&theme=synthwave)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emytonton&size_weight=0.5&count_weight=0.5)
