@@ -6,6 +6,8 @@
 <br />
   <strong>Languages ​​and Technologies:<strong/>
   <br>
+  <br>
+
 <div>
   
 [![My Skills](https://skillicons.dev/icons?i=js,nodejs,mysql,express,docker,html,css,ts)](https://skillicons.dev) <a href="https://discord.com/users/733443398903529534"><img src="https://lanyard.cnrad.dev/api/733443398903529534" align="right" width="350px" /></a> 
