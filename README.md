@@ -19,13 +19,19 @@
 <br>
   
 ## 📊 GitHub Stats:
-
-<div align="center" style="display: flex; justify-content: center;">
+<div align="center">
   <a href="https://github.com/emytonton">
-    <img height="170px" src="https://github-readme-stats.vercel.app/api?username=emytonton&show_icons=true&theme=rose"/>
-    <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emytonton&layout=compact&theme=rose"/>
+    <div style="display: flex; justify-content: center; gap: 10px;">
+      <img src="https://github-readme-stats.vercel.app/api?username=emytonton&show_icons=true&theme=rose" height="200px"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emytonton&layout=compact&theme=rose" height="200px"/>
+    </div>
+    <div style="margin-top: 10px; display: flex; justify-content: center;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=emytonton&theme=rose" width="610px" height="200px"/>
+    </div>
   </a>
 </div>
+
+
 
 
 ## Contact
