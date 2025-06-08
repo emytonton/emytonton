@@ -25,7 +25,7 @@
     <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emytonton&layout=compact&theme=rose"/>
   </a>
    <div style="margin-top: 10px; display: flex; justify-content: center;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=emytonton&theme=rose" width="610px" height="200px"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=emytonton&theme=rose" width="610px" height="180px"/>
     </div>
  
 </div>
