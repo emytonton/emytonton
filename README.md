@@ -22,7 +22,7 @@
 <div align="center" style="display: flex; justify-content: center;">
   <a href="https://github.com/emytonton">
     <img height="170px" src="https://github-readme-stats.vercel.app/api?username=emytonton&show_icons=true&theme=rose"/>
-    <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emytonton&layout=compact&theme=rose"/>
+    <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs?username=emytonton&layout=compact&langs_count=8&theme=rose" />
   </a>
    <div style="margin-top: 10px; display: flex; justify-content: center;">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=emytonton&theme=rose" width="610px" height="180px"/>
