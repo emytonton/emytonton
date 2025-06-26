@@ -3,7 +3,7 @@
  ## Software engineering student, 5nd period, full stack 👩‍💻
 
  
-<br />
+<br   />
   <strong>Languages ​​and Technologies:<strong/>
     
 
