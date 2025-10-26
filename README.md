@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=600&color=F7B4F0&width=435&lines=Hello+World%2C++I'm+Emy!;be+very+welcome+%F0%9F%92%AB)](https://git.io/typing-svg)
 
- ## Software engineering student, 5nd period, full stack 👩‍💻
+ ## Software engineering student, 5nd period, full stack web |  mobile developer 👩‍💻
 
  
 <br   />
