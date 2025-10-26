@@ -13,7 +13,7 @@
 
 <div>
   
-[![My Skills](https://skillicons.dev/icons?i=js,java,nodejs,mysql,express,docker,react)](https://skillicons.dev) <a href="https://discord.com/users/733443398903529534"><img src="https://lanyard.cnrad.dev/api/733443398903529534" align="right" width="350px" /></a> 
+[![My Skills](https://skillicons.dev/icons?i=js,css,html,react,nodejs,express,docker)](https://skillicons.dev) <a href="https://discord.com/users/733443398903529534"><img src="https://lanyard.cnrad.dev/api/733443398903529534" align="right" width="350px" /></a> 
 </div>
 
 <br>
