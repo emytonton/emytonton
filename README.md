@@ -1,57 +1,63 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=C65C69"/>
+<img width="1280" height="492" alt="Gemini_Generated_Image_pi3u32pi3u32pi3u-Photoroom" src="https://github.com/user-attachments/assets/54ee837b-b450-448d-a983-3a61eacbf566" />
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=600&color=C65C69&width=435&lines=Hello+World%2C++I'm+Emy!;be+very+welcome+%F0%9F%92%AB)](https://git.io/typing-svg)
+<div align="center">
+  <h3>Software Engineering | Full Stack</h3>
+</div>
+<br>
 
- ## Software engineering student, 5nd period, full stack web |  mobile developer 👩‍💻
+<div align="center">
+  <strong>About me</strong>
+</div>
+<br>
+<div align="center" style="max-width: 600px; margin: 0 auto;">
+  I am constantly studying and working on projects to improve my programming skills.<br>
+  I enjoy developing complete software, evolving in both back-end and front-end.<br>
+  Challenging myself and always seeing projects through to the end is my thing.<br>
+  In my free time I read a lot, practice physical activities and am always learning new hobbies.
+</div>
+<br>
 
  
-<br   />
-  <strong>Languages ​​and Technologies:<strong/>
-    
-
-  <br>
-  
-  <br>
-
-<div>
-  
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,express,docker)](https://skillicons.dev) <a href="https://discord.com/users/733443398903529534">
-<a href="https://discord.com/users/733443398903529534">
-    <img src="https://lanyard.cnrad.dev/api/733443398903529534?bg=C65C69&showDisplayName=true&idleMessage=Codando..." align="right" width="350px" />
+<div align="center">
+  <strong>Languages and Technologies:</strong>
+  <br><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,java,react,nodejs,express,docker,mongodb,aws" alt="My Skills"/>
   </a>
 </div>
 
-<br>
 
-<br>
-<br>
-<br>
-  
-## 📊 GitHub Stats:
-<div align="center" style="display: flex; justify-content: center;">
-  <a href="https://github.com/emytonton">
-    <img height="170px" src="https://github-readme-stats.vercel.app/api?username=emytonton&show_icons=true&theme=rose"/>
-    <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs?username=emytonton&layout=compact&langs_count=8&theme=rose" />
+<br> <div align="center">
+  <strong>What am I doing now?</strong>
+  <br><br> <a href="https://discord.com/users/733443398903529534">
+    <img src="https://lanyard.cnrad.dev/api/733443398903529534?bg=000&showDisplayName=true&idleMessage=Codando..." width="350px" alt="Discord Status" />
   </a>
-   <div style="margin-top: 10px; display: flex; justify-content: center;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=emytonton&theme=rose" width="610px" height="180px"/>
-    </div>
- 
-</div>
-
-
- 
-
-
-
-
-## Contact
-
-<div> 
-  <a href="https://www.linkedin.com/in/emilly-paiva-bbb9b5288/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="mailto:emillypaiva3260@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 <br>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=C65C69&section=footer"/>
+<br>
+
+<div align="center">
+  <strong>Git Stats</strong>
+  <br><br>
+  <img height="170px" align="center" src="https://github-readme-stats.vercel.app/api?username=emytonton&show_icons=true&theme=rose"/>
+  <img height="170px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=emytonton&layout=compact&langs_count=8&theme=rose"/>
+  <br><br>
+  <img height="170px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emytonton&theme=rose"/>
+</div>
+
+<br><br>
+
+<div align="center">
+  <strong>Contact me</strong>
+  <br><br>
+  <a href="https://www.linkedin.com/in/emilly-paiva-bbb9b5288/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+  &nbsp; <a href="mailto:emillypaiva3260@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+</div>
+
+<br><br>
