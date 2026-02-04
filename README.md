@@ -16,7 +16,7 @@
 
 <div>
   
-[![My Skills](https://skillicons.dev/icons?i=js,css,html,react,nodejs,express,docker)](https://skillicons.dev) <a href="https://discord.com/users/733443398903529534">
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,express,docker)](https://skillicons.dev) <a href="https://discord.com/users/733443398903529534">
 <a href="https://discord.com/users/733443398903529534">
     <img src="https://lanyard.cnrad.dev/api/733443398903529534?bg=C65C69&showDisplayName=true&idleMessage=Codando..." align="right" width="350px" />
   </a>
