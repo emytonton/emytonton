@@ -31,7 +31,7 @@
 <br> <div align="center">
   <strong>What am I doing now?</strong>
   <br><br> <a href="https://discord.com/users/733443398903529534">
-    <img src="https://lanyard.cnrad.dev/api/733443398903529534?bg=000&showDisplayName=true&idleMessage=Codando..." width="350px" alt="Discord Status" />
+    <img src="https://lanyard.cnrad.dev/api/733443398903529534?bg=0D1119&showDisplayName=true&idleMessage=Codando..." width="350px" alt="Discord Status" />
   </a>
 </div>
 <br>
