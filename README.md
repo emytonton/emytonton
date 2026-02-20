@@ -23,7 +23,7 @@
   <strong>Languages and Technologies:</strong>
   <br><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,java,react,nodejs,express,docker,mongodb,aws" alt="My Skills"/>
+    <img src="https://skillicons.dev/icons?i=js,ts,java,react,nodejs,nestjs,express,docker,mongodb,aws" alt="My Skills"/>
   </a>
 </div>
 
